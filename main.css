@@ -15,17 +15,21 @@ where each declaration is of the form
 PROPERTY : VALUE;
  */
 
-/* this will style all h1 elements with color pink */
+/* this will style all h1 and h2 elements with color pink */
+/* background color is lightseelblue */
 
 	
 body {
-		background-color: #ffc0cb;
+		background-color: #fff0f5;
 		color: black;
 		font-family:Lucida Console, Courier, monospace;
 	}
 	h1 {
 		color: #b0c4de;
+		font-family: fantasy;
+		border-style: inset;
 	}
 	h2 {
 		color: #b0c4de;
+		font-family: fantasy;
 	}
