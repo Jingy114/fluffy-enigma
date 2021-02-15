@@ -1,0 +1,31 @@
+/*
+  (this is a CSS comment)
+  Jing Yi Feng
+  IntroCS pd02 sec02
+  HW05 -- Stuylin'
+  2021-02-10
+*/
+
+
+
+/*
+structure of a CSS ruleset:
+SELECTOR { 0 or more DECLARATIONS }
+where each declaration is of the form
+PROPERTY : VALUE;
+ */
+
+/* this will style all h1 elements with color pink */
+
+	
+body {
+		background-color: #ffc0cb;
+		color: black;
+		font-family:Lucida Console, Courier, monospace;
+	}
+	h1 {
+		color: #b0c4de;
+	}
+	h2 {
+		color: #b0c4de;
+	}
