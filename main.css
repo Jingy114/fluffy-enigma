@@ -27,15 +27,18 @@ body {
 	h1 {
 		color: #b0c4de;
 		font-family: Lucida Console, Courier, monospace;
-		font-size: large;
-		border: 4mm ridge rgba(170, 50, 220, .6);
+		font-size: x-large;
+		border: 1rem solid;
+		border-color: #d8bfd8 #e6e6fa;
 	}
 	h2 {
 		color: #b0c4de;
 		font-family: Lucida Console, Courier, monospace;
-		border: 4mm ridge rgba(170, 50, 220, .6);
+		border: 1rem solid;
+		border-color: #d8bfd8 #e6e6fa;
 	}
         h3 {
-		border: 4mm ridge rgba(170, 50, 220, .6);
+		border: 1rem solid;
+		border-color: #d8bfd8 #e6e6fa;
         }
 			
